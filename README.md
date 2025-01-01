@@ -7,3 +7,7 @@
 <h1> Media query navigation </h1>
 
 <img src="https://github.com/BRajendra10/CSS-Exam/blob/3bb43059cd77cc15630540a0b9174aa3ec1d07c8/Media%20navigation.png">
+
+<h1> Media query form </h1>
+
+<img src="https://github.com/BRajendra10/CSS-Exam/blob/366cb7b36252cfc7baf5ada44102969197a7f499/media%20form.png">
